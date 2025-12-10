@@ -1,0 +1,11 @@
+.app {
+  padding: 12px 24px;
+}
+
+.header {
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:10px;
+}
+.saving { color: #059669; font-weight:600; }

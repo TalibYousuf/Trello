@@ -1,0 +1,14 @@
+:root {
+  --bg: #0f172a; /* deep slate */
+  --card: #ffffff;
+  --muted: #94a3b8;
+}
+
+body {
+  margin: 0;
+  font-family: Inter, Roboto, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial;
+  background: var(--bg);
+  color: #e5e7eb; /* light text for dark background */
+}
+
+.center { text-align:center; padding:40px; }

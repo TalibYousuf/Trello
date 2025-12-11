@@ -37,7 +37,7 @@ cd backend
 Create a .env file with the following:
 
 PORT=5001
-MONGO_URI=mongodb://127.0.0.1:27017/trello_alike
+MONGO_URI="send in the email"
 
 Install dependencies and start the server:
 
